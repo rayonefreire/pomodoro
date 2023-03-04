@@ -5,7 +5,10 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#25292e"
+      "backgroundColor": "#FFF"
+    },
+    "notification": {
+      "icon": "./assets/notification-icon.png"
     },
     "slug": "pomodoro",
     "version": "1.0.0",

@@ -14,6 +14,12 @@ export const styles = StyleSheet.create({
     maxWidth: 300,
     marginBottom: 80
   },
+  break: {
+    fontSize: 22,
+    fontWeight: 'bold',
+    color: '#1C354F',
+    marginBottom: 20,
+  },
   progress: {
     color: "#1C354F",
     fontSize: 60,
